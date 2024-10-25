@@ -1,0 +1,6 @@
+@EppNet.API_HostAddress = http://localhost:5189
+
+GET {{EppNet.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
